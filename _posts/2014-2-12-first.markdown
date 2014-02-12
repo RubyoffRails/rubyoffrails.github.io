@@ -1,0 +1,31 @@
+---
+layout: post
+title: First Post
+category: posts
+---
+
+Bacon ipsum dolor sit amet biltong ham brisket, hamburger venison drumstick pork
+loin ribeye sirloin beef ground round sausage rump. Andouille strip steak
+tri-tip shankle capicola pork chop rump ball tip bacon. Bresaola rump turducken
+bacon. Salami cow beef tenderloin jowl pig pork chop boudin beef ribs ham
+pancetta filet mignon biltong shoulder. Kielbasa t-bone flank meatloaf jowl.
+Salami meatloaf rump sirloin kevin hamburger short loin. Ground round meatloaf
+frankfurter turkey.
+
+Tenderloin kevin capicola ham hock jerky. Ribeye pork jerky, filet mignon
+hamburger salami t-bone shank beef ribs. Prosciutto bacon doner tenderloin
+leberkas swine frankfurter flank. Tail bresaola pork loin ground round, bacon
+swine tongue jowl strip steak pork chop.
+
+---
+
+You'll want to [get the code][left] and read the README to learn how to
+install and set up Left for your own purposes.
+
+If you have any questions, follow and ping me on Twitter- I'm
+[@holman][twitter].
+
+[jekyll]: https://github.com/mojombo/jekyll
+[zh]: http://zachholman.com
+[left]: https://github.com/holman/left#readme
+[twitter]: https://twitter.com/holman
