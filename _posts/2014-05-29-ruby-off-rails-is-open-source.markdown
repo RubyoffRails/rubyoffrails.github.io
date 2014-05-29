@@ -8,7 +8,7 @@ gravatar_url: http://gravatar.com/avatar/3b5cb0411cbd1012acab1b60f7ce3606
 
 When I started RubyOffRails, it was to get people to learn Ruby as well as learning Rails. I think, to a large part, I've accomplished my goals with the project. Over 400 people have taken my courses (email and video), and I think it's time to let more people learn.
 
-I've had a grand ole time with Ruby Off Rails, it's led to me [teaching Ruby and Rails](http://theironyard.com/locations/houston/) at [The Iron Yard in Houston](http://theironyard.com/locations/houston/). 
+I've had a grand ole time with Ruby Off Rails, it's led to me [teaching Ruby and Rails](http://theironyard.com/academy/rails-engineering/) at [The Iron Yard in Houston](http://theironyard.com/locations/houston/). 
 
 Open Source Curriculm
 -------
